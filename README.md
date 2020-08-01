@@ -5,3 +5,5 @@ https://drive.google.com/file/d/1UGg4ML_sletuituwhMDRNtZeS9d1YCg4/view?usp=shari
 #THE_FOLLOWING_LINK_PROVIDES_WITH_WEIGHT_FILE_FOR_OUR_TRAFFIC_DENSITY_MODEL
 https://drive.google.com/file/d/1-1qIm1qZbEYwrPqfKDMZx-SQtMipHxlD/view?usp=sharing
 
+#THE_FOLLOWING_LINK_PROVIDES_WITH_LOADING_YOLO_MODEL_FOR_OUR_AMBULANCE_DETECTION_MODEL
+https://drive.google.com/file/d/1KNpvvDgu8atcMGqLm8YqYkdR-sES0TEm/view?usp=sharing
