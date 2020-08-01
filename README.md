@@ -1,1 +1,7 @@
 # NC_GEU_MK104_TECHTROOPERS
+#THE_FOLLOWING_LINK_PROVIDES_WITH_WEIGHT_FILE_FOR_OUR_TOYMODEL
+https://drive.google.com/file/d/1UGg4ML_sletuituwhMDRNtZeS9d1YCg4/view?usp=sharing
+
+#THE_FOLLOWING_LINK_PROVIDES_WITH_WEIGHT_FILE_FOR_OUR_TRAFFIC_DENSITY_MODEL
+https://drive.google.com/file/d/1-1qIm1qZbEYwrPqfKDMZx-SQtMipHxlD/view?usp=sharing
+
